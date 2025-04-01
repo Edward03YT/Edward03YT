@@ -1,7 +1,27 @@
-Hi! I'm Andrei Craciun, a passionate Computer Science student at the Faculty of Applied Sciences (FSA), UPB (University Politehnica of Bucharest), Romania. I enjoy tackling problems in programming, especially in areas like C++, SQL, and game development.
+# 👋 Hi, I'm Andrei Craciun!
 
-I’ve worked on a variety of projects, including building scripts for gaming platforms like Onetap.su, and developing CS:GO/CS2 scripts with advanced features such as ESP, Anti-Aim modes, and FPS optimizations.
+🎓 **Computer Science Student** at **Faculty of Applied Sciences (FSA)**, **UPB**, Romania.
 
-When I'm not coding, I like diving into game optimization, working on SQL databases, and exploring tools like CATIA for design and modeling.
+🚀 I’m passionate about programming and solving problems in **C++**, **SQL**, and **game development**.
 
-I'm always open to learning new things, collaborating, and contributing to open-source projects. Feel free to check out my repositories, contribute, or just reach out to discuss cool tech stuff!
+🕹️ Some of my recent projects include:
+- 📝 **CS:GO Scripts** for **Onetap.su** with advanced features like **ESP**, **Anti-Aim**, and **FPS optimizations**.
+- 💻 **Game optimization** and **SQL database management**.
+
+🛠️ I love working with tools like **CATIA** for design and modeling.
+
+📚 Always eager to learn new technologies, collaborate on cool projects, and contribute to open-source.
+
+📬 Feel free to check out my repositories, contribute, or just reach out to discuss tech!
+
+---
+
+🔧 **Tech Stack**:
+- 💻 **C++**
+- 📊 **SQL**
+- 🎮 **Game Development**
+- 🖥️ **CATIA**
+
+🌱 **Current Focus**: Exploring **game optimization**, **database management**, and **design tools**.
+
+🚀 Let's connect and create something amazing!
